@@ -1,3 +1,3 @@
 # hello-world
 
-ground control calling majot tom
+ground control calling major tom
